@@ -1,12 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18460072&assignment_repo_type=AssignmentRepo)
 ## SE_DAY4_Software-Project-Management
-
-Welcome to the guide on Software Project Management! 🚀 This document provides a comprehensive look into key concepts and practices essential for successfully managing software projects, from timely delivery to market analysis. Below, we explore important areas like cost control, methodologies, quality assurance, and more. 💻📈
-
 ---
 
-### Timely Delivery in Software Projects ⏱️
+1 ### Timely Delivery in Software Projects ⏱️
 
 Timely delivery is one of the most crucial elements of software project management. Meeting deadlines not only keeps the project on track but also ensures that the software reaches the target audience when it's needed. Delays can result in missed opportunities, rising costs, and customer dissatisfaction. ⚡
 
