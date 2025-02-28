@@ -3,7 +3,7 @@
 ## SE_DAY4_Software-Project-Management
 ---
 
-### 1. Timely Delivery in Software Projects ⏱️
+### Timely Delivery in Software Projects ⏱️
 
 Timely delivery is one of the most crucial elements of software project management. Meeting deadlines not only keeps the project on track but also ensures that the software reaches the target audience when it's needed. Delays can result in missed opportunities, rising costs, and customer dissatisfaction. ⚡
 
